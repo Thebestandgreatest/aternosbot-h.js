@@ -1,0 +1,7 @@
+.cache/
+.config/
+.data/
+.pki/
+.vs/
+node_modules/
+.env
